@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>FARMER project</title>
+	<title>FARMER project design</title>
 </head>
 <body>
 
